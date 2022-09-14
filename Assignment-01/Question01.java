@@ -47,21 +47,21 @@ public class Question01 {
         
         // ----- main method -----
         public static void main(String[] args) {
-        System.out.println("Question-01");
-        System.out.println("Madelyn Good");
-        System.out.println("CSC 230-02");
-        System.out.println();
-        System.out.println("This program will approximate the area of a circle centered at origin with radius r.");
+            System.out.println("Question-01");
+            System.out.println("Madelyn Good");
+            System.out.println("CSC 230-02");
+            System.out.println();
+            System.out.println("This program will approximate the area of a circle centered at origin with radius r.");
+
+
+            // approximate area
+            System.out.println("\nThe approximate area with 50 rectangles is: " + approxCircleArea(0.001,50));
+            System.out.println("The approximate area with 500 rectangles is: " + approxCircleArea(0.001,500));
+            System.out.println("The approximate area with 5000 rectangles is: " + approxCircleArea(0.001,5000));
+
+
+            // exact area
+            System.out.println("\nThe exact area with radius 0.001 is: " + exactCircleArea()); 
         
-        
-        // approximate area
-        System.out.println("\nThe approximate area with 50 rectangles is: " + approxCircleArea(0.001,50));
-        System.out.println("The approximate area with 500 rectangles is: " + approxCircleArea(0.001,500));
-        System.out.println("The approximate area with 5000 rectangles is: " + approxCircleArea(0.001,5000));
-        
-                
-        // exact area
-        System.out.println("\nThe exact area with radius 0.001 is: " + exactCircleArea()); 
-        
-    }          
-}
+        }          
+    }
