@@ -18,14 +18,14 @@ public class Question01 {
         // create object of Cat
         Cat cat1 = new Cat();
         
-        // specify cat amazingness
+        // specify cat
         cat1.setName("Tom");
         cat1.setDob("September 5");
         cat1.setColor(Color.black);
         cat1.setStatus(false);
         cat1.setDistanceFromHome(2);
         
-        // access amazingness
+        // access cat
         System.out.println("Name: " + cat1.getName());
         System.out.println("Date of Birth: " + cat1.getDob());
         System.out.println("Color: " + cat1.getColor());
