@@ -11,9 +11,17 @@ My solutions to CA's CSC 230 Java assignments
 &emsp;&emsp;&emsp; * *Madelyn gave up on this question :)*
 
 #### Assignment-02
-&emsp; **Q1.** Create class to abstract a cat: setName(), setColor(), setStatus(), etc
+&emsp; **Q1.** Class: cat
 
 #### Assignment-03
 &emsp; **Q1.** Read unlimited input of strings and store them in a resized array <br>
 &emsp; **Q2.** Find second maximum of an integer array <br>
 &emsp;&emsp;&emsp; * *All same element throws not working :)*
+
+#### Assignment-04
+&emsp; **Q1.** Aggregation class: author and book
+
+#### Assignment-05
+&emsp; **Q1.** Determine if given string is a palindrome <br>
+&emsp;&emsp;&emsp;Implement binary search algorithm <br>
+&emsp;&emsp;&emsp;Find greatest common divisor of two positive numbers
