@@ -22,6 +22,4 @@ My solutions to CA's CSC 230 Java assignments
 &emsp; **Q1.** Aggregation class: author and book
 
 #### Assignment-05
-&emsp; **Q1.** Determine if given string is a palindrome <br>
-&emsp;&emsp;&emsp;Implement binary search algorithm <br>
-&emsp;&emsp;&emsp;Find greatest common divisor of two positive numbers
+&emsp; **Q1.** Menu: palindrome, binary search, greatest common divisor
