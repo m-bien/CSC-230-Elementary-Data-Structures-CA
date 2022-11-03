@@ -14,7 +14,8 @@
 #### Assignment-03
 &emsp; **Q1.** Read unlimited input of strings and store them in a resized array <br>
 &emsp; **Q2.** Find second maximum of an integer array <br>
-&emsp;&emsp;&emsp; * *all same element throws not working*
+&emsp;&emsp;&emsp; * *all same element throws not working* <br>
+&emsp;&emsp;&emsp; * *wrong output when first digit = max* <br>
 
 #### Assignment-04
 &emsp; **Q1.** Aggregation class: author and book
