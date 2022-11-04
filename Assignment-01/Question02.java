@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 /**
- * Assignment-01
+ * Assignment-01    8/29/22
  * 
  * Madelyn Good
  * CSC 230-02
