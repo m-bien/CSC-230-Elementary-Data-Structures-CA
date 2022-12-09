@@ -18,7 +18,7 @@
 &emsp;&emsp;&emsp; * *wrong output when first digit = max* <br>
 
 #### Assignment-04
-&emsp; **Q1.** Aggregation class: author and book
+&emsp; **Q1.** Class: author, book
 
 #### Assignment-05
 &emsp; **Q1.** Menu: palindrome, binary search, greatest common divisor
@@ -35,3 +35,12 @@
 #### Assignment-07
 &emsp; **Q1.** Inheritance: person, student, teacher, college student <br>
 &emsp; **Q2.** Inheritance & Interface: animal, dog, chicken, edible, fruit, apple, orange 
+
+#### Assignment-08
+&emsp; **Q1.** Generics/Comparable: bubble sort, selection sort, insertion sort, quick sort
+
+#### Assignment-09 
+&emsp; **Q1.** Edit and improve provided code <br>
+&emsp;&emsp;&emsp;Convert provided array into linked list <br>
+&emsp;&emsp;&emsp;Make sure any type of element can be held <br>
+&emsp;&emsp;&emsp;* *group project* <br>
